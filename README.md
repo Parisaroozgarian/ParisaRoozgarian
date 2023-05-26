@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Parisa
 ### Programmer
 
-![inventory-levels-boxes 1 4](https://github.com/ParisaRoozgarian/ParisaRoozgarian/assets/107187797/d898b45e-38c7-4254-9b08-b69d64716acb)
 
+
+![IMG_2556 (1)](https://github.com/ParisaRoozgarian/ParisaRoozgarian/assets/107187797/6105b507-1598-4861-ba77-d2c27b82b85d)
 
 I am programmer with a passion for application or programs or makes improvments to exisiting software through coding and markup writing . In my spare time , you can find me hiking or making projects .
 
