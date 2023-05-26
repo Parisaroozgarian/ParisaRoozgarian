@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Parisa
 ### Programmer
-![alt text](http://url/to/img.png)
+![Alt text](relative%20path/to/img.jpg?raw=true "Title")
 
 I am programmer with a passion for application or programs or makes improvments to exisiting software through coding and markup writing . In my spare time , you can find me hiking or making projects .
 
