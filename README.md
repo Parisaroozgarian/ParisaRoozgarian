@@ -1,9 +1,7 @@
+### Hi there 👋 I'm Parisa
+### Programmer
 
-<hI align="center">Hi 👋 I'm Parisa</hI> <h3 align="center">A passionate Computer Engineer from Iran</h3>
-
-<palign="left"> <img src="https://komarev.com/ghpvc/?username=aParisaRoozgarian&label=Profile%
-
-20views&color=Oe75b6&style=flat" alt="ParisaRoozgarian" /> </p>
+<palign="left"> <img src="https://komarev.com/ghpvc/?username=aParisaRoozgarian&label=Profile%20views&color=Oe75b6&style=flat" alt="ParisaRoozgarian" /> </p>
 
 
  I am programmer with a passion for application or programs or makes improvments to exisiting software through coding and markup writing . In my spare time , you can find me hiking or making projects .
