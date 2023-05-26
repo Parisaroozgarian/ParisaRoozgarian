@@ -14,11 +14,8 @@ I am programmer with a passion for application or programs or makes improvments 
 ### ⭐C#.Net programming course , Aug 2021 – Nov 2021 
 ### ⭐Image processing and machine vision in Python - OpenCV library , Feb 2022 – Apr 2022 
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParisaRoozgarian&repo=GradeRegistration-UnitSelectionSystem)](https://github.com/ParisaRoozgarian/GradeRegistration-UnitSelectionSystem)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParisaRoozgarian&hide_progress=true)](https://github.com/ParisaRoozgarian/github-readme-stats)
-
-### STATS
+## 📊GITHUB STATS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParisaRoozgarian&show_icons=true&theme=dracula)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParisaRoozgarian&repo=GradeRegistration-UnitSelectionSystem)](https://github.com/ParisaRoozgarian/GradeRegistration-UnitSelectionSystem)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParisaRoozgarian&hide_progress=true)](https://github.com/ParisaRoozgarian/github-readme-stats)
