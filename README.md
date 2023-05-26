@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Parisa
 ### Programmer
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[ParisaRoozgarian]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 I am programmer with a passion for application or programs or makes improvments to exisiting software through coding and markup writing . In my spare time , you can find me hiking or making projects .
 
