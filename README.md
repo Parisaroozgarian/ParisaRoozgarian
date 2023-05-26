@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Parisa
 ### Programmer
-<img src="https://komarev.com/ghpvc/?username=aParisaRoozgarian
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
- I am programmer with a passion for application or programs or makes improvments to exisiting software through coding and markup writing . In my spare time , you can find me hiking or making projects .
+I am programmer with a passion for application or programs or makes improvments to exisiting software through coding and markup writing . In my spare time , you can find me hiking or making projects .
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParisaRoozgarian&repo=GradeRegistration-UnitSelectionSystem)](https://github.com/ParisaRoozgarian/GradeRegistration-UnitSelectionSystem)
 
