@@ -4,7 +4,7 @@
 I am programmer with a passion for application or programs or makes improvments to exisiting software through coding and markup writing . In my spare time , you can find me hiking or making projects .
 
 ## 📖**SKILLS** 
-[![My Skills](https://skillicons.dev/icons?i=cs,linkedin,py,visualstudio,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin,cs,cpp,visualstudio,py,matlab,js)](https://skillicons.dev)
 
 ## 📖**CERTIFICATIONS** 
 ### ⭐ICDL , Jun 2018 – Sep 2018 
