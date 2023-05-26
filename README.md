@@ -3,10 +3,10 @@
 ![przzz](https://github.com/ParisaRoozgarian/ParisaRoozgarian/assets/107187797/76fd6344-c6b5-457c-a18c-daec2a494f64)
 I am programmer with a passion for application or programs or makes improvments to exisiting software through coding and markup writing . In my spare time , you can find me hiking or making projects .
 
-## 📖: **SKILLS** 
+## 📖**SKILLS** 
 [![My Skills](https://skillicons.dev/icons?i=cs,linkedin,py,visualstudio,matlab)](https://skillicons.dev)
 
-## 📖: **CERTIFICATIONS** 
+## 📖**CERTIFICATIONS** 
 ### ⭐ICDL , Jun 2018 – Sep 2018 
 ### ⭐Python programming course , July 2019 – Aug 2019 
 ### ⭐MATLAB Programming Course , July 2020 – Nov 2020  
