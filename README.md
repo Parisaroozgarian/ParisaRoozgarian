@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Parisa
 ### Programmer
-![Alt text](/posts/path/to/PRZZ.jfif "Optional title")
+
+![My Image](PRZZ.jfif)
+
 
 I am programmer with a passion for application or programs or makes improvments to exisiting software through coding and markup writing . In my spare time , you can find me hiking or making projects .
 
