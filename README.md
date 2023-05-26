@@ -18,7 +18,6 @@ I am programmer with a passion for application or programs or makes improvments 
 
 ## 📊GITHUB STATS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParisaRoozgarian&show_icons=true&theme=dracula)<br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParisaRoozgarian&repo=GradeRegistration-UnitSelectionSystem)](https://github.com/ParisaRoozgarian/GradeRegistration-UnitSelectionSystem)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParisaRoozgarian&repo=GradeRegistration-UnitSelectionSystem)](https://github.com/ParisaRoozgarian/GradeRegistration-UnitSelectionSystem)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParisaRoozgarian&hide_progress=true)](https://github.com/ParisaRoozgarian/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ParisaRoozgarian&theme=dark&hide_border=false)<br/>
+
