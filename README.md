@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Parisa
 ### Programmer
 
-![My Image](PRZZ.jfif)
+![My Image](my-image.jpg)
 
 
 I am programmer with a passion for application or programs or makes improvments to exisiting software through coding and markup writing . In my spare time , you can find me hiking or making projects .
