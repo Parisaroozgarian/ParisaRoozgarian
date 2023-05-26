@@ -7,7 +7,8 @@
 
 I am programmer with a passion for application or programs or makes improvments to exisiting software through coding and markup writing . In my spare time , you can find me hiking or making projects .
 
-[![My Skills](https://skillicons.dev/icons?i=cs , linkedin , py , visualstudio , matlab)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=cs,linkedin,py,visualstudio,matlab)](https://skillicons.dev)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParisaRoozgarian&repo=GradeRegistration-UnitSelectionSystem)](https://github.com/ParisaRoozgarian/GradeRegistration-UnitSelectionSystem)
 
