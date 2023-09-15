@@ -1,5 +1,4 @@
-
-![Uploading MLpy.gif…]()
+![MLpy](https://github.com/ParisaRoozgarian/ParisaRoozgarian/assets/107187797/8df8df51-cc5e-4acd-8c57-95805e65d4c3)
 
 # Hi there , I'm Parisa👋
 # Software Developer💻
