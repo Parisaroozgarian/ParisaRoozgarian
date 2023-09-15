@@ -1,5 +1,6 @@
-
-![MLpy](https://github.com/ParisaRoozgarian/ParisaRoozgarian/assets/107187797/08b6a5b6-3b59-45e0-a02b-714d3fa77923)
+<p align="center">
+  <img src="![MLpy](https://github.com/ParisaRoozgarian/ParisaRoozgarian/assets/107187797/08b6a5b6-3b59-45e0-a02b-714d3fa77923)" alt="animated" />
+</p>
 
 # Hi there , I'm Parisa👋
 # Software Developer💻
