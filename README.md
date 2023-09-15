@@ -11,7 +11,6 @@ I'm a Python developer with a passion for machine learning, image processing, an
 
 
 ## 📖**CERTIFICATIONS** 
-### ⭐ICDL , Jun 2018 – Sep 2018 
 ### ⭐Python programming course , July 2019 – Aug 2019 
 ### ⭐MATLAB Programming Course , July 2020 – Nov 2020  
 ### ⭐Machine learning and Data mining course in Python - Scikit library  , Dec 2020 – Feb 2021 
