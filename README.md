@@ -2,9 +2,8 @@
   <img src="https://github.com/ParisaRoozgarian/ParisaRoozgarian/assets/107187797/08b6a5b6-3b59-45e0-a02b-714d3fa77923"/>
 </div>
 
-
-# Hi there , I'm Parisa👋
-# Software Developer💻
+<h3 align="center">Hi there , I'm Parisa👋</h3>
+<h2 align="center">Software Developer</h2>
 I'm a passionate software developer with a strong enthusiasm for creating innovative applications and enhancing existing software solutions through my coding and markup skills. I have gained extensive experience by completing numerous programs and projects during my coursework.In my spare time, I love to explore the great outdoors and indulge in hiking adventures. Additionally, I enjoy taking on personal projects that challenge me and allow me to apply my creativity.
 I have acquired proficiency in several programming languages, including Python, MATLAB, NodeJS, C#, and C++. However, my specialization lies within the realm of Python Developer, where I have developed a deep understanding of areas such as Machine Learning and Data Mining using the Scikit library. Furthermore, I possess expertise in Image Processing and Machine Vision, leveraging the power of the OpenCV library.
 
