@@ -1,4 +1,6 @@
-![przzz]![Uploading im-568211-unscreen.gif…]()
+
+![Uploading MLpy.gif…]()
+
 # Hi there , I'm Parisa👋
 # Software Developer💻
 I'm a passionate software developer with a strong enthusiasm for creating innovative applications and enhancing existing software solutions through my coding and markup skills. I have gained extensive experience by completing numerous programs and projects during my coursework.In my spare time, I love to explore the great outdoors and indulge in hiking adventures. Additionally, I enjoy taking on personal projects that challenge me and allow me to apply my creativity.
