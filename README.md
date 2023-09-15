@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="![MLpy](https://github.com/ParisaRoozgarian/ParisaRoozgarian/assets/107187797/08b6a5b6-3b59-45e0-a02b-714d3fa77923)" alt="animated" />
-</p>
-
+<div id="header" align="center">
+  <img src="https://github.com/ParisaRoozgarian/ParisaRoozgarian/assets/107187797/08b6a5b6-3b59-45e0-a02b-714d3fa77923" width="100"/>
+</div>
 # Hi there , I'm Parisa👋
 # Software Developer💻
 I'm a passionate software developer with a strong enthusiasm for creating innovative applications and enhancing existing software solutions through my coding and markup skills. I have gained extensive experience by completing numerous programs and projects during my coursework.In my spare time, I love to explore the great outdoors and indulge in hiking adventures. Additionally, I enjoy taking on personal projects that challenge me and allow me to apply my creativity.
