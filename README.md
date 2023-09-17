@@ -3,9 +3,14 @@
 </div>
 
 <h2 align="center">Hi there , I'm Parisa👋</h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/parisa-roozgarian) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](parisaroozgarian@gmail.com)
+<div id="badges">
+    <a href="https://www.linkedin.com/in/parisa-roozgarian/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="parisaroozgarian@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram Badge"/>
+    </a>
+</div>
 
 I'm a Python developer with a passion for machine learning, image processing, and machine vision. I have expertise in Scikit-learn for data mining, as well as OpenCV for image processing.My goal is to bridge the gap between computers and the visual world by creating intelligent solutions.
 
