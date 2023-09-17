@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
       <a href="mailto:parisaroozgarian@gmail.com">
-        <img src="ttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Badge"/>(h)
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Badge"/>(h)
       </a>
   </div>
   <p>I'm a Python developer with a passion for machine learning, image processing, and machine vision. I have expertise in Scikit-learn for data mining, as well as OpenCV for image processing.My goal is to bridge the gap between computers and the visual world by creating intelligent solutions.</p>
