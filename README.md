@@ -9,7 +9,7 @@
   <a href="mailto:parisaroozgarian@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Badge"/>
   </a>
-  <h2>Hi there , I'm Parisa👋</h2>
+  <h2>Hi there👋</h2>
 </div>
 
 <p>I'm a Python developer with a passion for machine learning, image processing, and machine vision. I have expertise in Scikit-learn for data mining, as well as OpenCV for image processing.My goal is to bridge the gap between computers and the visual world by creating intelligent solutions.</p>
@@ -34,7 +34,7 @@
  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
- <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the badge&logo=bootstrap&logoColor=white" />
+ <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
 ---
