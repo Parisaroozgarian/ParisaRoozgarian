@@ -49,12 +49,12 @@
 </div>  
 
 
-## 📖**CERTIFICATIONS** 
-### ⭐Python programming course , July 2019 – Aug 2019 
-### ⭐MATLAB Programming Course , July 2020 – Nov 2020  
-### ⭐Machine learning and Data mining course in Python - Scikit library  , Dec 2020 – Feb 2021 
-### ⭐C#.Net programming course , Aug 2021 – Nov 2021 
-### ⭐Image processing and machine vision in Python - OpenCV library , Feb 2022 – Apr 2022 
+### 📖CERTIFICATIONS : 
+⭐Python programming course , July 2019 – Aug 2019 
+⭐MATLAB Programming Course , July 2020 – Nov 2020  
+⭐Machine learning and Data mining course in Python - Scikit library  , Dec 2020 – Feb 2021 
+⭐C#.Net programming course , Aug 2021 – Nov 2021 
+⭐Image processing and machine vision in Python - OpenCV library , Feb 2022 – Apr 2022 
 
 
 
