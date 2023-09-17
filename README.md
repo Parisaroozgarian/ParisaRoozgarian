@@ -11,7 +11,7 @@
   </a>
   <div>
     <a href="https://komarev.com/ghpvc/?username=ParisaRoozgarian">
-      <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+      <img src="https://komarev.com/ghpvc/?username=ParisaRoozgarian&style=flat-square&color=blueviolet" alt=""/>
     </a>
   </div>
   <h2>Hi there , I'm Parisa👋</h2>
