@@ -34,6 +34,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
+
 ## 📖**CERTIFICATIONS** 
 ### ⭐Python programming course , July 2019 – Aug 2019 
 ### ⭐MATLAB Programming Course , July 2020 – Nov 2020  
@@ -42,10 +43,4 @@
 ### ⭐Image processing and machine vision in Python - OpenCV library , Feb 2022 – Apr 2022 
 
 
-## 📊GITHUB STATS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParisaRoozgarian&show_icons=true&theme=dracula)<br/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParisaRoozgarian&repo=GradeRegistration-UnitSelectionSystem&theme=dracula)](https://github.com/ParisaRoozgarian/GradeRegistration-UnitSelectionSystem)<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParisaRoozgarian&hide_progress=true&theme=dracula)](https://github.com/ParisaRoozgarian/github-readme-stats)
 
