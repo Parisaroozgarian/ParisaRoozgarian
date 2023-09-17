@@ -9,9 +9,11 @@
   <a href="mailto:parisaroozgarian@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Badge"/>
   </a>
-  <a href="https://komarev.com/ghpvc/?username=ParisaRoozgarian">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  </a>
+  <div>
+    <a href="https://komarev.com/ghpvc/?username=ParisaRoozgarian">
+      <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+    </a>
+  </div>
   <h2>Hi there , I'm Parisa👋</h2>
 </div>
 
