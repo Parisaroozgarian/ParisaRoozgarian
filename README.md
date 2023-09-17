@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/ParisaRoozgarian/ParisaRoozgarian/assets/107187797/3cde5c80-d00c-45fc-a769-ebca7af243aa">
   <img src="https://github.com/ParisaRoozgarian/ParisaRoozgarian/assets/107187797/08b6a5b6-3b59-45e0-a02b-714d3fa77923"/>
 </div>
 <br/>
