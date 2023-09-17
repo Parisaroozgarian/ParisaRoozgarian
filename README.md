@@ -1,19 +1,15 @@
 <div align="center">
   <img src="https://github.com/ParisaRoozgarian/ParisaRoozgarian/assets/107187797/08b6a5b6-3b59-45e0-a02b-714d3fa77923"/>
-</div>
-
-<div id="header" align="center">
-  <h2>Hi there , I'm Parisa👋</h2>
   <div id="badges">
-      <a href="https://www.linkedin.com/in/parisa-roozgarian/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="mailto:parisaroozgarian@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Badge"/>
-      </a>
+    <a href="https://www.linkedin.com/in/parisa-roozgarian/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:parisaroozgarian@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Badge"/>
+    </a>
   </div>
 </div>
-
+<h2 align="center">Hi there , I'm Parisa👋</h2>
 <p>I'm a Python developer with a passion for machine learning, image processing, and machine vision. I have expertise in Scikit-learn for data mining, as well as OpenCV for image processing.My goal is to bridge the gap between computers and the visual world by creating intelligent solutions.</p>
 
 ## 📖**SKILLS** 
