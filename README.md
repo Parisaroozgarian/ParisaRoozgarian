@@ -12,7 +12,8 @@
   <h2>Hi there👋</h2>
 </div>
 
-<p>I'm a Python developer with a passion for machine learning, image processing, and machine vision. I have expertise in Scikit-learn for data mining, as well as OpenCV for image processing.My goal is to bridge the gap between computers and the visual world by creating intelligent solutions.</p>
+<p>Highly motivated and adaptable professional with a strong work ethic and excellent interpersonal skills. Proficient in working independently and quick to master new skills. Skilled software developer with expertise in coding, debugging, and project management.
+.</p>
 
 ### Programming Languages :
 
